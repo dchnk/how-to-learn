@@ -1,4 +1,4 @@
-.techniques__cards{
+.cards{
   width: 920px;
   display: flex;
   flex-wrap: wrap;
@@ -8,6 +8,6 @@
   list-style-type: none;
 }
 
-.techniques__cards :nth-child(3n){
+.cards :nth-child(3n){
   margin-right:0;
 }
